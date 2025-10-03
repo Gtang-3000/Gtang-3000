@@ -12,11 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src = "./pic/411827850_1543344663098604_7832772181683680923_n.png">
 
 
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[下載原神](https://download-porter.hoyoverse.com/download-porter/2025/08/06/GenshinImpact_install_202507221021.exe?trace_key=GenshinImpact_install_ua_9be5d48eb23a)
 
 ![descriptive alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
